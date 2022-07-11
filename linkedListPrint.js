@@ -1,8 +1,9 @@
+
 class Node {
-    constructor(val){
-        this.value = val;
-        this.next = null
-    }
+  constructor(val){
+      this.value = val;
+      this.next = null
+  }
 }
 //create nodes
 a = new Node('a')
